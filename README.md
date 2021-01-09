@@ -1,2 +1,1 @@
-# Fast-Campus_R
-R 강의
+영차영차
